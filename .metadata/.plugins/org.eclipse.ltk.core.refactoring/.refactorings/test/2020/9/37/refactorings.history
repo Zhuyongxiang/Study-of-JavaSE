@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;pers.zyx.ccf.test&apos; to &apos;task17&apos;&#x0D;&#x0A;- Original project: &apos;test&apos;&#x0D;&#x0A;- Original element: &apos;pers.zyx.ccf.test&apos;&#x0D;&#x0A;- Renamed element: &apos;pers.zyx.ccf.task17&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;test&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;pers.zyx.ccf{test.java[test" matchStrategy="1" name="task17" qualified="false" references="true" similarDeclarations="false" stamp="1599900767602" textual="false" version="1.0"/>
+</session>
